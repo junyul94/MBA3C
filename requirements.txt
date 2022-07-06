@@ -14,7 +14,7 @@ enum34==1.1.6
 future==0.16.0
 glfw==1.5.1
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 imageio==2.2.0
 ipykernel==4.8.0
